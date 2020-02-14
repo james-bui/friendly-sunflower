@@ -8,7 +8,7 @@ snipcart_api_key: ''
 logos:
   light:
     optimized: "/images/kht logo white word.webp"
-    fallback: "/images/kht logo white word small.png"
+    fallback: "/images/kht logo white word.png"
   dark:
     optimized: "/images/kht logo word.webp"
     fallback: "/images/kht logo word.png"
