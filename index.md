@@ -2,8 +2,6 @@
 title: Home
 isHome: true
 layout: index
+
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# Quality Oriental herbs and goods since 1982
