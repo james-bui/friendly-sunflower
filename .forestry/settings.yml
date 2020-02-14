@@ -28,15 +28,15 @@ sections:
   templates:
   - store
 - type: document
-  path: faq.md
-  label: FAQ
-  templates:
-  - faq
-- type: document
   path: about.md
-  label: About
+  label: Formulas
   templates:
   - about
+- type: document
+  path: faq.md
+  label: About
+  templates:
+  - faq
 - type: directory
   path: category
   label: Categories
