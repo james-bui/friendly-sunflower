@@ -1,1 +1,5 @@
-{}
+---
+main:
+- url: www.khanhingtong.com
+  weight: 4
+  title: 中文
