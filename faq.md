@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: About
 headline: Behold our FAQ
 introduction: All right, friends. Let’s do this. This section will cover basic, frequently
   asked questions for e-commerce merchants.
