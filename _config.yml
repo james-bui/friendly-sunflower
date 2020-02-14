@@ -10,8 +10,8 @@ logos:
     optimized: "/images/kht logo white word.webp"
     fallback: "/images/kht logo white word small.png"
   dark:
-    optimized: images/logo.svg
-    fallback: images/logo.svg
+    optimized: "/images/kht logo word.webp"
+    fallback: "/images/kht logo word.png"
 palette: default
 palettes:
   default:
