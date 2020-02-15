@@ -10,6 +10,8 @@ introduction: |-
 bulletpoints:
 - title: ''
   description: |-
+    <h2>Sending Your Formula </h2>
+
     <br>
 
     <br>
