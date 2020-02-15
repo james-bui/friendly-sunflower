@@ -6,7 +6,7 @@ introduction: |-
 
   ![](/images/plant7-featured-1.jpg)
 bulletpoints:
-- title: ''
+- title: Sending Your Formula
   description: |-
     Given the complexity and many combinations of herbs for each formula, we are unable to provide a set price for each package of herbs. Please provide a copy of your formula through your medium of choice:
 
@@ -16,7 +16,9 @@ bulletpoints:
     * Text: **_916-862-0719_**
     * Fax: **_916-391-2311_** (please provide phone or email on fax)
     * WeChat ID: khanhingtong
-    * WeChat QR Code ![](/images/kht wechat.jpg)
+    * WeChat QR Code:
+
+                  ![](/images/kht wechat.jpg)
   image:
     optimized: ''
     fallback: ''
