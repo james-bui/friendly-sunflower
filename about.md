@@ -24,7 +24,7 @@ bulletpoints:
     * WeChat ID or QR Code on the left: **khanhingtong**
   image:
     optimized: ''
-    fallback: "/images/kht wechat.jpg"
+    fallback: "/images/kht wechat (2).jpg"
 - title: Confirmation and Next Steps
   description: 'Once we confirm stock of the herbs to fill your formula, we will contact
     you about the price and other details about the order. With your confirmation,
