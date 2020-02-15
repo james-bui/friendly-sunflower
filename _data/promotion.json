@@ -3,7 +3,7 @@
   "subtitle": "On orders $75+",
   "image": {
     "optimized": "/images/brown cab.webp",
-    "fallback": ""
+    "fallback": "/images/brown cab.jpg"
   },
   "cta": {
     "text": "Discover",
