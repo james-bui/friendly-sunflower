@@ -1,8 +1,13 @@
 ---
 title: About
-headline: Behold our FAQ
-introduction: All right, friends. Let’s do this. This section will cover basic, frequently
-  asked questions for e-commerce merchants.
+headline: A little about us and some common questions
+introduction: As the first Oriental herbs and goods store in Sacramento, we have provided
+  quality goods to the greater Sacramento area for close to 35 years. Our years of
+  expertise and extensive catalog of herbs can fill most herbal formulas provided
+  by herbal practitioners and we have been the go-to store for many practitioners
+  in the greater Sacramento area. In addition to our vast collection of herbs, we
+  also have a wide variety of dried goods and gifts for your own consumption or as
+  gifts for your friends and loved ones.
 questions:
 - question: How long does shipping take?
   answer: |-
