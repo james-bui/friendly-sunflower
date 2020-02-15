@@ -2,8 +2,8 @@
   "title": "Free shipping",
   "subtitle": "On orders $75+",
   "image": {
-    "optimized": "/images/promo-1.webp",
-    "fallback": "/images/promo-1.jpg"
+    "optimized": "/images/promo.webp",
+    "fallback": "/images/promo.jpg"
   },
   "cta": {
     "text": "Discover",
