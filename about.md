@@ -17,14 +17,15 @@ bulletpoints:
   image:
     optimized: ''
     fallback: ''
-- title: We think plants are the future
-  description: Word. But good **code** _can_ solve a lots of problems, too. New _and_
-    old. That’s why we help beginners get started with web development through free
-    content and tools, like this theme. We also believe [the JAMstack](https://jamstack.org/)
-    might be one solid pillar on which we build that future.
+- title: Confirmation and Next Steps
+  description: 'Once we confirm stock of the herbs to fill your formula, we will contact
+    you about the price and other details about the order. With your confirmation,
+    we will package the formula in individual packages to be brewed. Should you have
+    any questions that are not answered in the [FAQ](/faq.html "About"), feel free
+    to contact us. '
   image:
-    optimized: images/team.webp
-    fallback: images/team.jpg
+    optimized: "/images/04 crop.webp"
+    fallback: "/images/04 crop png.png"
 layout: about
 menu:
   main:
