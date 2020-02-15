@@ -9,6 +9,10 @@ introduction: As the first Oriental herbs and goods store in Sacramento, we have
   also have a wide variety of dried goods and gifts for your own consumption or as
   gifts for your friends and loved ones.
 questions:
+- question: How many times can I cook my package of herbs?
+  answer: Each package of herbs can be brewed up to 2-3 times. However, each subsequent
+    brew will be more diluted than the one before. We recommend adding some honey
+    to sweeten up the brew if the taste is a bit hard to bear.
 - question: How long does shipping take?
   answer: |-
     * US shipping will take between 3 to 7 business days.
