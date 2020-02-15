@@ -2,7 +2,7 @@
 title: About
 headline: A little about us and some common questions
 introduction: As the first Oriental herbs and goods store in Sacramento, we have provided
-  quality goods to the greater Sacramento area for close to 35 years. Our years of
+  quality goods to the greater Sacramento area for almost 40  years. Our years of
   expertise and extensive catalog of herbs can fill most herbal formulas provided
   by herbal practitioners and we have been the go-to store for many practitioners
   in the greater Sacramento area. In addition to our vast collection of herbs, we
