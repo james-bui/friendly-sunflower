@@ -27,17 +27,14 @@ questions:
     * All discounted items sales are final.
 - question: Where can I get an herbal formula?
   answer: ''
-- question: Rapid-fire questions
-  answer: 'Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
-    designer a couple of months ago. <br /><br /> Q: Why did you build a theme for
-    Stackbit? <br /> A: We believe in Stackbit’s promise of opening up the JAMstack
-    to more developers. Plus, we trust these folks. [Read more about Stackbit](http://bit.ly/2YAvGix).
-    <br /><br /> Q: How many people work at Snipcart? <br /> A: Not a lot! We’re a
-    small, bootstrapped team of eight human beings. Michael might be a robot, though.
-    <br /><br /> Q: Why is Snipcart based in Québec City? <br /> A: Have you been
-    here? It’s beaaautiful! <br /><br /> Q: What’s the meaning of life? <br /> A:
-    We’re not quite sure. But building useful products with people we love feels meaningful
-    enough.'
+- question: I don't see the herb that I want. Is there any way you can get it for
+    me?
+  answer: Yes! We have a wide variety of herbs in stock (almost 500 kinds) and are
+    working on getting most of it online. However, in the meantime we've provided
+    some of our most popular ones in our current online store. If you don't see the
+    herb that you're looking for, don't hesitate to contact us with the form below.
+    Its common name, scientific name, Chinese name, or even picture will all help
+    in determining what the herb is and whether we have it.
 layout: faq
 menu:
   main:
