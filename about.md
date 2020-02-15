@@ -8,8 +8,12 @@ introduction: |-
 
   ![](/images/plant7-featured-1.jpg)
 bulletpoints:
-- title: Sending Your Formula
+- title: ''
   description: |-
+    <br>
+
+    <br>
+
     Given the complexity and many combinations of herbs for each formula, we are unable to provide a set price for each package of herbs. Please provide a copy of your formula through your medium of choice:
 
     <br>
@@ -20,7 +24,7 @@ bulletpoints:
     * WeChat ID: khanhingtong
     * WeChat QR Code:
 
-                  ![](/images/kht wechat.jpg)
+      ![](/images/kht wechat.jpg)
   image:
     optimized: ''
     fallback: ''
