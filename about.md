@@ -7,7 +7,7 @@ introduction: Traditional Chinese Medicine (TCM) has a more than 3,500 year lega
   years. Our selection and expertise is unmatched in the Greater Sacramento area and
   we have customers who have their formulas filled and mailed from us throughout California.
 bulletpoints:
-- title: Sending your formula
+- title: ''
   description: "Given the complexity and many combinations of herbs for each formula,
     we are unable to provide a set price for each package of herbs. Please provide
     a copy of your formula through your medium of choice:\n\n<br>\n\n* By email: **_khtherbs@gmail.com_**\n*
