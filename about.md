@@ -17,8 +17,7 @@ bulletpoints:
     * Text: **_916-862-0719_**
     * Fax: **_916-391-2311_** (please provide phone or email on fax)
     * WeChat ID: khanhingtong
-    * WeChat QR Code
-      * ![](/images/kht wechat.jpg)
+    * WeChat QR Code ![](/images/kht wechat.jpg)
   image:
     optimized: ''
     fallback: ''
