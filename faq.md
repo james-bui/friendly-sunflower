@@ -15,11 +15,16 @@ questions:
     * International shipping will take between 10 and 15 business days.
 - question: How do refunds and returns work?
   answer: |-
-    It happens. Even the most beautiful of plants will disappoint *someone*. Again, tell it like it is:
+    We understand that sometimes items are not to your satisfaction. Here are our policies regarding refunds and returns:
 
-      - All discounted items sales are final.
-      - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-      - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+    * Within 7 days, if the product is not open or used, we will refund the purchase amount upon receipt of the product back at our address:
+
+      <center>6035 Stockton Blvd<center>
+
+      <center>Sacramento, CA 95824<center>
+
+      <br>
+    * All discounted items sales are final.
 - question: How do you handle sensitive customer information?
   answer: "[GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
     am I right? Make sure you’re as transparent as possible with your data handling
