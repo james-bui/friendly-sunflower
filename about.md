@@ -8,7 +8,7 @@ introduction: |-
 
   ![](/images/plant7-featured-1.jpg)
 bulletpoints:
-- title: ''
+- title: Sending Your Formula
   description: |-
     <br>
 
