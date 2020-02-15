@@ -9,6 +9,13 @@ introduction: As the first Oriental herbs and goods store in Sacramento, we have
   also have a wide variety of dried goods and gifts for your own consumption or as
   gifts for your friends and loved ones.
 questions:
+- question: FDA and Medical Disclosures
+  answer: Statements on khanhingtong.com and from Khan Hing Tong have not been evaluated
+    by the Food and Drug Administration. These products are not intended to diagnose,
+    treat, cure or prevent any disease. The content provided is for informational
+    purposes only and is not intended as a replacement for advice from your physician
+    or licensed herbalist. You should not use the information on this website for
+    diagnosis or treatment of any health problem.
 - question: How many times can I cook my package of herbs?
   answer: Each package of herbs can be brewed up to 2-3 times. However, each subsequent
     brew will be more diluted than the one before. We recommend adding some honey
