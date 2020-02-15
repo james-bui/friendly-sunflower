@@ -11,11 +11,8 @@ introduction: As the first Oriental herbs and goods store in Sacramento, we have
 questions:
 - question: How long does shipping take?
   answer: |-
-    Now that’s a frequent one all right, ain’t it? Your answer to this should *manage customer expectations*. Just like [a good checkout flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
-
-      - US shipping will take between 3 to 5 business days.
-      - International shipping will take between 5 and 10 business days.
-      - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
+    * US shipping will take between 3 to 7 business days.
+    * International shipping will take between 10 and 15 business days.
 - question: How do refunds and returns work?
   answer: |-
     It happens. Even the most beautiful of plants will disappoint *someone*. Again, tell it like it is:
