@@ -25,11 +25,9 @@ bulletpoints:
     * Fax: **_916-391-2311_** (please provide phone or email on fax)
     * WeChat ID: **khanhingtong**
     * WeChat QR Code:
-
-      ![](/images/kht wechat.jpg)
   image:
     optimized: ''
-    fallback: ''
+    fallback: "/images/kht wechat.jpg"
 - title: Confirmation and Next Steps
   description: 'Once we confirm stock of the herbs to fill your formula, we will contact
     you about the price and other details about the order. With your confirmation,
