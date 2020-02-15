@@ -1,6 +1,6 @@
 ---
 id: hongzao
-title: Ziziphus Jujube - 红枣 (1 lb)Vestibulum eget
+title: Ziziphus Jujube - 红枣 (1 lb)
 description: 'This dried fruit is widely enjoyed in many mediums; it can be consumed
   with hot water as tea, a garnish for dessert, or used to even preserved in alcohol
   to make alcohol jujube. Jujube is believed to help alleviate stress, constipation,
@@ -21,7 +21,7 @@ images:
     original:
       optimized: "/images/plant5-featured-lg.webp"
       fallback: "/images/plant5-featured-lg.jpg"
-category: bigplants
+category: ''
 featured: false
 section: Store
 layout: product
