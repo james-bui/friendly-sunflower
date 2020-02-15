@@ -1,22 +1,25 @@
 ---
 title: Formulas
-headline: We are Planty
-introduction: Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of
-  geeks from Québec City. Planty is a theme we built for [Stackbit](https://www.stackbit.com/),
-  a killer JAMstack site-builder. To enable e-commerce on Planty, you’ll need to [sign
-  up for Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-  required.
+headline: Herbal formulas shipped to you
+introduction: Traditional Chinese Medicine (TCM) has a more than 3,500 year legacy
+  with herbal formulas being one of its foundational practices. As Sacramento’s first
+  Oriental herb store, we have provided and filled many herbal formulas for over 32
+  years. Our selection and expertise is unmatched in the Greater Sacramento area and
+  we have customers who have their formulas filled and mailed from us throughout California.
 bulletpoints:
 - title: We love plants
-  description: Now THAT is true, but we love web development even more. We talk about
-    it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft live demos
-    and open source these bad boys [on GitHub](https://github.com/snipcart). Matter
-    of fact, this Planty theme [is open source too](https://github.com/snipcart/stackbit-theme-planty)!
-    If you spot any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-    Michael, you’re good.
+  description: |-
+    Given the complexity and many combinations of herbs for each formula, we are unable to provide a set price for each package of herbs. Please provide a copy of your formula through your medium of choice:
+
+    <br>
+
+    * By email: **_khtherbs@gmail.com_**
+    * By text: **_916-862-0719_**
+    * By fax: **_916-391-2311_** (please provide phone or email on fax)
+    * Attached in the **_form_** **_below_**
   image:
-    optimized: images/nan_talk.webp
-    fallback: images/nan_talk.jpg
+    optimized: "/images/04 crop.webp"
+    fallback: "/images/04 crop png.png"
 - title: We think plants are the future
   description: Word. But good **code** _can_ solve a lots of problems, too. New _and_
     old. That’s why we help beginners get started with web development through free
