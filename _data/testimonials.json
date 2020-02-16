@@ -1,17 +1,17 @@
 {
   "data": [
     {
-      "text": "If you want Chinese herbs, this is the place to go! I was impressed to find a whole wall of jars and drawers full of herbs!",
-      "author": {
-        "name": "Nicole G.",
-        "location": "Woodland, CA"
-      }
-    },
-    {
       "text": "I fill all my herbal tea formulas here. They are experts in Chinese herbs and put together all my formulas without issue. Highly recommend!",
       "author": {
         "name": "George H.",
         "location": "Sacramento, CA"
+      }
+    },
+    {
+      "text": "If you want Chinese herbs, this is the place to go! I was impressed to find a whole wall of jars and drawers full of herbs!",
+      "author": {
+        "name": "Nicole G.",
+        "location": "Woodland, CA"
       }
     }
   ]
