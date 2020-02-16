@@ -1,6 +1,6 @@
 ---
-slug: summer
-title: Summer plants
+slug: herbs
+title: Herbs
 section: Store
 layout: category
 menu:
