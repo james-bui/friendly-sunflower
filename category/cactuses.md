@@ -1,6 +1,6 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: gifts
+title: Gifts
 section: Store
 layout: category
 menu:
