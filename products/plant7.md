@@ -10,8 +10,8 @@ price: "35"
 images:
   default:
     thumbnail:
-      optimized: "/images/plant7.webp"
-      fallback: "/images/plant7.jpg"
+      optimized: ''
+      fallback: ''
     original:
       optimized: "/images/plant7-lg.webp"
       fallback: "/images/plant7-lg.jpg"
