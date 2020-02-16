@@ -16,8 +16,8 @@ images:
       fallback: "/images/plant5-lg.jpg"
   featured:
     thumbnail:
-      optimized: "/images/plant5-featured.webp"
-      fallback: "/images/plant5-featured.jpg"
+      optimized: "/images/red dates thumb.jpg"
+      fallback: ''
     original:
       optimized: "/images/plant5-featured-lg.webp"
       fallback: "/images/plant5-featured-lg.jpg"
