@@ -9,8 +9,8 @@ price: "8"
 images:
   default:
     thumbnail:
-      optimized: "/images/plant5.webp"
-      fallback: "/images/plant5.jpg"
+      optimized: "/images/red dates thumb.jpg"
+      fallback: ''
     original:
       optimized: "/images/plant5-lg.webp"
       fallback: "/images/plant5-lg.jpg"
@@ -22,7 +22,7 @@ images:
       optimized: "/images/plant5-featured-lg.webp"
       fallback: "/images/plant5-featured-lg.jpg"
 category: herbs
-featured: false
+featured: true
 section: Store
 layout: product
 
