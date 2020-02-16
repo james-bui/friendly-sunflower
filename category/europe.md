@@ -1,6 +1,6 @@
 ---
-slug: europe
-title: Plants from Europe
+slug: teas
+title: Teas
 section: Store
 layout: category
 menu:
