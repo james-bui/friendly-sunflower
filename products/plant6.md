@@ -1,29 +1,31 @@
 ---
-id: '6'
-title: Donec finibus
+id: eagle-oil
+title: Eagle Brand Medicated Oil - 風油精 (1 dozen, 24ml)
 description: Cras molestie faucibus ipsum ut vulputate.
 price: '100.00'
 images:
   default:
     thumbnail:
-      optimized: /images/plant6.webp
-      fallback: /images/plant6.jpg
+      optimized: "/images/plant6.webp"
+      fallback: "/images/plant6.jpg"
     original:
-      optimized: /images/plant6-lg.webp
-      fallback: /images/plant6-lg.jpg
+      optimized: "/images/plant6-lg.webp"
+      fallback: "/images/plant6-lg.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant6-featured.webp
-      fallback: /images/plant6-featured.jpg
+      optimized: "/images/plant6-featured.webp"
+      fallback: "/images/plant6-featured.jpg"
     original:
-      optimized: /images/plant6-featured-lg.webp
-      fallback: /images/plant6-featured-lg.jpg
-category: bigplants
+      optimized: "/images/plant6-featured-lg.webp"
+      fallback: "/images/plant6-featured-lg.jpg"
+category: ''
 featured: false
 section: Store
 layout: product
+
 ---
+# Eagle Brand Medicated Oil - 風油精 (1 dozen, 24ml)
 
-# Donec finibus
+This green oil is the go-to pain reliever for many families. Especially popular in Vietnam, family members typically gift these green bottles of medicated oil when they return home for a visit. This green oil can provide relief for minor muscle and joint pain from arthritis, sprains, and bruises with some customers putting a couple drops under their nose to help alleviate migraines, congestion, or as a sleep aid. The Eagle Brand oil is a staple for many families and make for a great gift!  For external use only. 
 
-Cras molestie faucibus ipsum ut vulputate. Suspendisse potenti. Donec nec diam odio. Nam ut tempus odio. Vivamus at vehicula felis. Ut ex ante, feugiat at risus eget, facilisis iaculis ex. Suspendisse sagittis sed turpis nec tincidunt. Suspendisse ac venenatis nibh. Pellentesque non maximus lacus, in commodo sapien. Nulla facilisi. Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis volutpat massa dolor id purus. Suspendisse et lobortis dui. Maecenas pretium blandit ex id lobortis. Vestibulum eget sapien vitae nibh porttitor bibendum sed eget nibh.
+Active ingredients: Menthol 14.5% and Methyl Salicytate 30%
