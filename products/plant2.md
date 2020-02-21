@@ -1,29 +1,32 @@
 ---
-id: '2'
-title: Integer porta
-description: Suspendisse efficitur eget erat sit amet efficitur.
-price: '99.00'
+id: lotusseed
+title: Lotus Seed - 莲子 (1 lb)
+description: Lotus is one of the most versatile herbs in TCM with the outer seed being
+  one of the most widely used. The seed itself contains asparagin, starch, and trace
+  elements of calcium, zinc, and iron. Lotus seed is thought of to promote long-life
+  and modern studies finding proteins that have anti-inflammatory activities.  https://www.ncbi.nlm.nih.gov/pubmed/23458922
+price: "10"
 images:
   default:
     thumbnail:
-      optimized: /images/plant2.webp
-      fallback: /images/plant2.jpg
+      optimized: "/images/plant2.webp"
+      fallback: "/images/plant2.jpg"
     original:
-      optimized: /images/plant2-lg.webp
-      fallback: /images/plant2-lg.jpg
+      optimized: "/images/plant2-lg.webp"
+      fallback: "/images/plant2-lg.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant2-featured.webp
-      fallback: /images/plant2-featured.jpg
+      optimized: "/images/plant2-featured.webp"
+      fallback: "/images/plant2-featured.jpg"
     original:
-      optimized: /images/plant2-featured-lg.webp
-      fallback: /images/plant2-featured-lg.jpg
-category: cactuses
+      optimized: "/images/plant2-featured-lg.webp"
+      fallback: "/images/plant2-featured-lg.jpg"
+category: herbs
 featured: true
 section: Store
 layout: product
+
 ---
+Lotus is one of the most versatile herbs in TCM with the outer seed being one of the most widely used. The seed itself contains asparagin, starch, and trace elements of calcium, zinc, and iron. Lotus seed is thought of to promote long-life and modern studies finding proteins that have anti-inflammatory activities.
 
-# Integer porta
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus.
+###### [https://www.ncbi.nlm.nih.gov/pubmed/23458922](https://www.ncbi.nlm.nih.gov/pubmed/23458922 "https://www.ncbi.nlm.nih.gov/pubmed/23458922")
