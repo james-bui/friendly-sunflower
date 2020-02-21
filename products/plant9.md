@@ -5,7 +5,7 @@ description: Goji berry is a popular herb in TCM that can help with eyesight and
   immune system. It has been called a superfood due to its high antioxidant levels,
   such as vitamin C, zeaxanthin and carotenoids, which are known for their immune-boosting
   qualities and ability to fight inflammation.
-price: '400.00'
+price: "9"
 images:
   default:
     thumbnail:
@@ -21,7 +21,7 @@ images:
     original:
       optimized: "/images/plant9-featured-lg.webp"
       fallback: "/images/plant9-featured-lg.jpg"
-category: ''
+category: herbs
 featured: true
 section: Store
 layout: product
