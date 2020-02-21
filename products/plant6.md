@@ -6,11 +6,11 @@ price: '100.00'
 images:
   default:
     thumbnail:
-      optimized: "/images/plant6.webp"
-      fallback: "/images/plant6.jpg"
+      optimized: "/images/eagle green thumbnail1.png"
+      fallback: ''
     original:
-      optimized: "/images/plant6-lg.webp"
-      fallback: "/images/plant6-lg.jpg"
+      optimized: "/images/eagle green.jpg"
+      fallback: ''
   featured:
     thumbnail:
       optimized: "/images/plant6-featured.webp"
@@ -18,7 +18,7 @@ images:
     original:
       optimized: "/images/plant6-featured-lg.webp"
       fallback: "/images/plant6-featured-lg.jpg"
-category: ''
+category: gifts
 featured: false
 section: Store
 layout: product
