@@ -25,6 +25,5 @@ images:
 category: herbs
 featured: false
 section: Store
-published: false
 
 ---
