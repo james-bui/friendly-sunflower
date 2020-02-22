@@ -98,6 +98,7 @@ fields:
   config:
     required: true
 pages:
+- products/chrysanthemum-菊花-1-lb.md
 - products/cordyceps-sinensis-冬蟲夏草-50g-1两.md
 - products/plant1.md
 - products/plant2.md
