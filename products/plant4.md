@@ -1,29 +1,28 @@
 ---
-id: '4'
-title: Cras molestie
-description: Maecenas pretium blandit ex id lobortis.
-price: '24.99'
+id: dried-scallops
+title: Dried Scallops - 干贝 (1 lb)
+description: 'Dried scallops is a staple in Chinese cuisine, used for its sweet and
+  umami flavor. Its strong and distinct flavor is used for stir fries, porridge, stews,
+  and sauces (i.e. XO sauce). '
+price: "24.99"
 images:
   default:
     thumbnail:
-      optimized: /images/plant4.webp
-      fallback: /images/plant4.jpg
+      optimized: "/images/plant4.webp"
+      fallback: "/images/plant4.jpg"
     original:
-      optimized: /images/plant4-lg.webp
-      fallback: /images/plant4-lg.jpg
+      optimized: "/images/plant4-lg.webp"
+      fallback: "/images/plant4-lg.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant4-featured.webp
-      fallback: /images/plant4-featured.jpg
+      optimized: "/images/plant4-featured.webp"
+      fallback: "/images/plant4-featured.jpg"
     original:
-      optimized: /images/plant4-featured-lg.webp
-      fallback: /images/plant4-featured-lg.jpg
-category: cactuses
+      optimized: "/images/plant4-featured-lg.webp"
+      fallback: "/images/plant4-featured-lg.jpg"
+category: gifts
 featured: false
 section: Store
 layout: product
+
 ---
-
-# Cras molestie
-
-Cras molestie faucibus ipsum ut vulputate. Suspendisse potenti. Donec nec diam odio. Nam ut tempus odio. Vivamus at vehicula felis. Ut ex ante, feugiat at risus eget, facilisis iaculis ex. Suspendisse sagittis sed turpis nec tincidunt. Suspendisse ac venenatis nibh. Pellentesque non maximus lacus, in commodo sapien. Nulla facilisi. Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis volutpat massa dolor id purus. Suspendisse et lobortis dui. Maecenas pretium blandit ex id lobortis. Vestibulum eget sapien vitae nibh porttitor bibendum sed eget nibh.
