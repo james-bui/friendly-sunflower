@@ -21,7 +21,7 @@ images:
       optimized: ''
       fallback: "/images/dried scallops.jpg"
 category: gifts
-featured: true
+featured: false
 section: Store
 layout: product
 
