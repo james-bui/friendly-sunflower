@@ -11,10 +11,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/Oolong_tea_leaf.jpg"
     original:
-      optimized: "/images/plant7-lg.webp"
-      fallback: "/images/plant7-lg.jpg"
+      optimized: ''
+      fallback: "/images/103 tea.png"
   featured:
     thumbnail:
       optimized: "/images/plant7-featured.webp"
