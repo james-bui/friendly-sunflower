@@ -18,12 +18,12 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ginseng thumbnail.jpeg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG-7323.JPG"
 category: gifts
-featured: false
+featured: true
 section: Store
 
 ---
