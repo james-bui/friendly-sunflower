@@ -17,11 +17,11 @@ images:
       fallback: "/images/103 tea.png"
   featured:
     thumbnail:
-      optimized: "/images/plant7-featured.webp"
-      fallback: "/images/plant7-featured.jpg"
+      optimized: ''
+      fallback: "/images/Oolong_tea_leaf.jpg"
     original:
-      optimized: "/images/plant7-featured-lg.webp"
-      fallback: "/images/plant7-featured-lg.jpg"
+      optimized: ''
+      fallback: "/images/103 tea.png"
 category: teas
 featured: true
 section: Store
