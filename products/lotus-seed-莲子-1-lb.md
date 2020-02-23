@@ -25,7 +25,6 @@ category: herbs
 featured: true
 section: Store
 layout: product
-published: false
 
 ---
 Lotus is one of the most versatile herbs in TCM with the outer seed being one of the most widely used. The seed itself contains asparagin, starch, and trace elements of calcium, zinc, and iron. Lotus seed is thought of to promote long-life and modern studies finding proteins that have anti-inflammatory activities.
