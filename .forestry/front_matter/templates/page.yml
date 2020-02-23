@@ -9,3 +9,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- products/American Ginseng.md
