@@ -12,11 +12,11 @@ price: "65"
 images:
   default:
     thumbnail:
-      optimized: "/images/plant9.webp"
-      fallback: "/images/plant9.jpg"
+      optimized: ''
+      fallback: "/images/eagle lavender thumbnail.png"
     original:
-      optimized: "/images/plant9-lg.webp"
-      fallback: "/images/plant9-lg.jpg"
+      optimized: ''
+      fallback: "/images/eagle lavender.png"
   featured:
     thumbnail:
       optimized: "/images/plant9-featured.webp"
