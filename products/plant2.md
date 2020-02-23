@@ -9,8 +9,8 @@ price: "10"
 images:
   default:
     thumbnail:
-      optimized: "/images/plant2.webp"
-      fallback: "/images/plant2.jpg"
+      optimized: ''
+      fallback: "/images/lotus thumb.jpg"
     original:
       optimized: "/images/plant2-lg.webp"
       fallback: "/images/plant2-lg.jpg"
