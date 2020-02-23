@@ -9,3 +9,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- products/Ziziphus Jujube - 红枣 (1 lb).md
