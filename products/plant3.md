@@ -9,11 +9,11 @@ price: "9"
 images:
   default:
     thumbnail:
-      optimized: "/images/plant3.webp"
-      fallback: "/images/plant3.jpg"
+      optimized: ''
+      fallback: "/images/goji thumb (2).jpg"
     original:
-      optimized: "/images/plant3-lg.webp"
-      fallback: "/images/plant3-lg.jpg"
+      optimized: ''
+      fallback: ''
   featured:
     thumbnail:
       optimized: "/images/plant3-featured.webp"
