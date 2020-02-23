@@ -8,11 +8,11 @@ price: "45"
 images:
   default:
     thumbnail:
-      optimized: "/images/plant4.webp"
-      fallback: "/images/plant4.jpg"
+      optimized: ''
+      fallback: "/images/Dried-Scallops-Image-thumb.jpg"
     original:
-      optimized: "/images/plant4-lg.webp"
-      fallback: "/images/plant4-lg.jpg"
+      optimized: ''
+      fallback: "/images/dried scallops.jpg"
   featured:
     thumbnail:
       optimized: "/images/plant4-featured.webp"
