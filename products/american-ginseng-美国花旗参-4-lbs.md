@@ -11,10 +11,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/ginseng thumbnail.jpeg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/IMG-7323.JPG"
   featured:
     thumbnail:
       optimized: ''
