@@ -11,7 +11,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/huang qi thumb.png"
     original:
       optimized: ''
       fallback: ''
@@ -25,6 +25,5 @@ images:
 category: herbs
 featured: false
 section: Store
-published: false
 
 ---
