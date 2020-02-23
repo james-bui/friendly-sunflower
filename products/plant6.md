@@ -12,11 +12,11 @@ price: '100.00'
 images:
   default:
     thumbnail:
-      optimized: "/images/eagle green thumbnail1.png"
-      fallback: ''
+      optimized: ''
+      fallback: "/images/eagle green thumbnail1.png"
     original:
-      optimized: "/images/eagle green.jpg"
-      fallback: ''
+      optimized: ''
+      fallback: "/images/eagle green.jpg"
   featured:
     thumbnail:
       optimized: "/images/plant6-featured.webp"
