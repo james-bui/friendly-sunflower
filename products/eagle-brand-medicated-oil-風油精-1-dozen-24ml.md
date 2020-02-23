@@ -28,7 +28,6 @@ category: gifts
 featured: false
 section: Store
 layout: product
-published: false
 
 ---
 # Eagle Brand Medicated Oil - 風油精 (1 dozen, 24ml)
