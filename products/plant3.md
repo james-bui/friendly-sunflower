@@ -16,8 +16,8 @@ images:
       fallback: ''
   featured:
     thumbnail:
-      optimized: "/images/plant3-featured.webp"
-      fallback: "/images/plant3-featured.jpg"
+      optimized: ''
+      fallback: "/images/goji thumb (2).jpg"
     original:
       optimized: "/images/plant3-featured-lg.webp"
       fallback: "/images/plant3-featured-lg.jpg"
