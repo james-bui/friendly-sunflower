@@ -22,7 +22,7 @@ images:
       optimized: ''
       fallback: ''
 category: herbs
-featured: false
+featured: true
 section: Store
 layout: product
 
