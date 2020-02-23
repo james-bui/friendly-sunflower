@@ -98,6 +98,7 @@ fields:
   config:
     required: true
 pages:
+- products/313-king-s-oolong-ginseng-tea-2nd-grade.md
 - products/american-ginseng-美国花旗参-4-lbs.md
 - products/angelica-sinensis-当归-1lb.md
 - products/astragalus-黄芪-1-lb.md
