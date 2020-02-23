@@ -22,7 +22,7 @@ images:
       optimized: "/images/plant3-featured-lg.webp"
       fallback: "/images/plant3-featured-lg.jpg"
 category: herbs
-featured: false
+featured: true
 section: Store
 layout: product
 
