@@ -15,13 +15,13 @@ images:
       fallback: "/images/dried scallops.jpg"
   featured:
     thumbnail:
-      optimized: "/images/plant4-featured.webp"
-      fallback: "/images/plant4-featured.jpg"
+      optimized: ''
+      fallback: "/images/Dried-Scallops-Image-thumb.jpg"
     original:
-      optimized: "/images/plant4-featured-lg.webp"
-      fallback: "/images/plant4-featured-lg.jpg"
+      optimized: ''
+      fallback: "/images/dried scallops.jpg"
 category: gifts
-featured: false
+featured: true
 section: Store
 layout: product
 
