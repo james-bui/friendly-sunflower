@@ -23,7 +23,7 @@ images:
       optimized: ''
       fallback: "/images/IMG-7323.JPG"
 category: gifts
-featured: true
+featured: false
 section: Store
 
 ---
