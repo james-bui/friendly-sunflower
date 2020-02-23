@@ -19,7 +19,7 @@ images:
       optimized: ''
       fallback: "/images/birds nest sun nest 993.png"
 category: gifts
-featured: true
+featured: false
 section: Store
 layout: product
 
