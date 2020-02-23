@@ -25,9 +25,9 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: teas
 featured: false
-section: ''
+section: Store
 published: false
 
 ---
