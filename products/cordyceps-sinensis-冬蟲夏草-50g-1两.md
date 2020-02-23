@@ -13,10 +13,10 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/cordyceps thumbnail.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/cordyceps.png"
   featured:
     thumbnail:
       optimized: ''
