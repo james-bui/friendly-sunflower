@@ -9,8 +9,8 @@ price: "8"
 images:
   default:
     thumbnail:
-      optimized: "/images/red dates thumb (2).jpg"
-      fallback: ''
+      optimized: ''
+      fallback: "/images/red dates thumb (2).jpg"
     original:
       optimized: "/images/plant5-lg.webp"
       fallback: "/images/plant5-lg.jpg"
