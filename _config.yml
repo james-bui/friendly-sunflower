@@ -4,7 +4,7 @@ permalink: "/:title/"
 title: Khan Hing Tong
 snipcart_js: https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.js
 snipcart_css: https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.css
-snipcart_api_key: ''
+snipcart_api_key: OTlhMWRmMGQtMzg0Ni00Mzk4LThjZDEtOGY4M2JlZmI1OTNhNjM3MDczNjY5NTc4NzM4OTEz
 logos:
   light:
     optimized: "/images/kht logo white word.webp"
