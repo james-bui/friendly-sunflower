@@ -24,6 +24,5 @@ category: gifts
 featured: true
 section: Store
 layout: product
-published: false
 
 ---
