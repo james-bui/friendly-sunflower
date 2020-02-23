@@ -16,11 +16,11 @@ images:
       fallback: "/images/plant2-lg.jpg"
   featured:
     thumbnail:
-      optimized: "/images/plant2-featured.webp"
-      fallback: "/images/plant2-featured.jpg"
+      optimized: ''
+      fallback: "/images/lotus thumb.jpg"
     original:
-      optimized: "/images/plant2-featured-lg.webp"
-      fallback: "/images/plant2-featured-lg.jpg"
+      optimized: ''
+      fallback: ''
 category: herbs
 featured: true
 section: Store
