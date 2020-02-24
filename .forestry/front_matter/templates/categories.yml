@@ -27,7 +27,6 @@ fields:
     required: true
 pages:
 - category/bigplants.md
-- category/cactuses.md
 - category/gifts.md
 - category/herbs.md
 - category/teas.md
