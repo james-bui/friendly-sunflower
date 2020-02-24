@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: table & cookware
+category: cookware
 featured: false
 section: Store
 
