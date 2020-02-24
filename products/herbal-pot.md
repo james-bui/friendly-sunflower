@@ -22,6 +22,5 @@ images:
 category: table & cookware
 featured: false
 section: Store
-published: false
 
 ---
