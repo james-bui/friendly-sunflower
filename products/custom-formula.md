@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: ''
 category: formulas
-featured: false
+featured: true
 section: Store
 
 ---
