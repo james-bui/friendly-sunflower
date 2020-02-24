@@ -11,7 +11,7 @@ images:
       fallback: "/images/brown herbs.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/04.webp"
   featured:
     thumbnail:
       optimized: ''
@@ -21,7 +21,7 @@ images:
       fallback: ''
 category: ''
 featured: false
-section: ''
+section: Store
 published: false
 
 ---
