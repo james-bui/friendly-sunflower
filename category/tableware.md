@@ -1,6 +1,6 @@
 ---
 slug: tableware
-title: Tableware
+title: Table & Cookware
 section: Store
 layout: category
 menu:
