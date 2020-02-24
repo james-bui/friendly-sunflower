@@ -19,9 +19,8 @@ images:
     original:
       optimized: ''
       fallback: ''
-category: ''
+category: formulas
 featured: false
 section: Store
-published: false
 
 ---
