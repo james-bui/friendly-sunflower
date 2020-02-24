@@ -20,7 +20,7 @@ images:
       optimized: ''
       fallback: "/images/herbs-1.jpg"
 category: formulas
-featured: false
+featured: true
 section: Store
 
 ---
