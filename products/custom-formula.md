@@ -15,12 +15,12 @@ images:
   featured:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/brown herbs-1.jpg"
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/herbs-1.jpg"
 category: formulas
-featured: true
+featured: false
 section: Store
 
 ---
