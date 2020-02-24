@@ -10,8 +10,8 @@ images:
       optimized: ''
       fallback: "/images/brown herbs.jpg"
     original:
-      optimized: ''
-      fallback: "/images/04 crop png-1.png"
+      optimized: "/images/04 crop-1.webp"
+      fallback: ''
   featured:
     thumbnail:
       optimized: ''
