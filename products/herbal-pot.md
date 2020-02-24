@@ -8,7 +8,7 @@ images:
   default:
     thumbnail:
       optimized: ''
-      fallback: "/images/herbal pot thumbnail small-2.jpg"
+      fallback: "/images/herbal pot thumbnail small-3.jpg"
     original:
       optimized: ''
       fallback: "/images/herbal pot thumbnail-2.jpg"
