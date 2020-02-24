@@ -3,12 +3,12 @@ layout: product
 id: herbal-pot
 title: Herbal Pot
 description: ''
-price: ''
+price: "18"
 images:
   default:
     thumbnail:
       optimized: ''
-      fallback: ''
+      fallback: "/images/herbal pot thumbnail.jpg"
     original:
       optimized: ''
       fallback: ''
