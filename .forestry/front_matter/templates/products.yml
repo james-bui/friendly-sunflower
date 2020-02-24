@@ -77,7 +77,8 @@ fields:
     - teas
     - gifts
     - formulas
-    - table & cookware
+    - tableware
+    - cookware
 - type: boolean
   name: featured
   label: Featured
