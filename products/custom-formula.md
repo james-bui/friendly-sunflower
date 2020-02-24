@@ -11,7 +11,7 @@ images:
       fallback: "/images/brown herbs.jpg"
     original:
       optimized: ''
-      fallback: "/images/04.webp"
+      fallback: "/images/04 crop png-1.png"
   featured:
     thumbnail:
       optimized: ''
