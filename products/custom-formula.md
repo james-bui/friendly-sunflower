@@ -18,7 +18,7 @@ images:
       fallback: "/images/brown herbs-1.jpg"
     original:
       optimized: ''
-      fallback: "/images/herbs-1.jpg"
+      fallback: "/images/herbal package-light-clean-1.jpg"
 category: formulas
 featured: true
 section: Store
