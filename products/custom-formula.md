@@ -19,7 +19,7 @@ images:
     original:
       optimized: ''
       fallback: "/images/herbal package-light-clean-1.jpg"
-category: formulas
+category: herbs
 featured: true
 section: Store
 
