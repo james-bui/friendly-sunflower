@@ -11,7 +11,7 @@ images:
       fallback: "/images/brown herbs.jpg"
     original:
       optimized: ''
-      fallback: "/images/herbs.jpg"
+      fallback: "/images/herbal package-light-clean.jpg"
   featured:
     thumbnail:
       optimized: ''
