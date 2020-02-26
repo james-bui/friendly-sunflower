@@ -1,7 +1,7 @@
 ---
 layout: product
 id: herbal-pot
-title: Ceramic Herbal Pot
+title: Ceramic Herbal Pot (Black)
 description: ''
 price: "18"
 images:
