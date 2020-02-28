@@ -8,7 +8,7 @@ description: This ceramic pot is ideal for brewing herbs, tea, and even soups. T
   may cause the pot to crack. Many people like to cook porridge or heat water on low
   heat in order to prevent cracks. Please refrain from exposing this pot to extreme
   temperature differences.
-price: "18"
+price: "19"
 images:
   default:
     thumbnail:
