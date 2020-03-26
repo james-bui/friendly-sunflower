@@ -12,7 +12,7 @@ layout: index
 
 # Text: **_916-862-0719_**
 
-# Fax: **_916-391-2311_** (please provide phone or email on fax)
+# Fax: **_916-391-2311_** 
 
 # WeChat ID: **khanhingtong**
 
