@@ -4,7 +4,7 @@ isHome: true
 layout: index
 
 ---
-# Still in the works. Please contact us at the following:
+# Still in the works. Please contact us @
 
 # Email: **_khtherbs@gmail.com_**
 
