@@ -4,24 +4,6 @@ isHome: true
 layout: index
 
 ---
-# In the works. Please contact us @
+# Quality herbs and goods since 1982 
 
-<br>
-
-# Email: **_khtherbs@gmail.com_**
-
-<br>
-
-# Text: **_916-862-0719_**
-
-<br>
-
-# Fax: **_916-391-2311_**
-
-<br>
-
-# WeChat ID: **khanhingtong**
-
-<br>
-
-# WeChat QR Code:![](/images/kht wechat.jpg)
+# (Website still in the works)
