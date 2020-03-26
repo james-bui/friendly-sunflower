@@ -16,4 +16,4 @@ layout: index
 
 ###### WeChat ID: **khanhingtong**
 
-###### WeChat QR Code: ![](/images/kht wechat (2).jpg)
+###### WeChat QR Code:![](/images/kht wechat.jpg)
