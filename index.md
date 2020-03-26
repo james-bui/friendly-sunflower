@@ -6,7 +6,7 @@ layout: index
 ---
 # Quality Oriental herbs and goods since 1982
 
-Still in the works. Please contact us with questions or product requests at the following:
+Still in the works. Please contact us at the following:
 
 * Email: **_khtherbs@gmail.com_**
 * Text: **_916-862-0719_**
