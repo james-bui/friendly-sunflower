@@ -27,5 +27,6 @@ images:
 category: cookware
 featured: false
 section: Store
+published: false
 
 ---
