@@ -25,7 +25,7 @@ images:
       optimized: "/images/plant6-featured-lg.webp"
       fallback: "/images/plant6-featured-lg.jpg"
 category: gifts
-featured: false
+featured: true
 section: Store
 layout: product
 
