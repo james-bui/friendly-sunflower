@@ -1,7 +1,7 @@
 ---
 layout: product
 id: qingfeijiedutang
-title: Formula for Clearing the Lungs and Poison
+title: Qing Fei Jie Du Tang
 description: ''
 price: "15"
 images:
