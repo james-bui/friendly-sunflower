@@ -25,5 +25,6 @@ category: herbs
 featured: true
 section: Store
 layout: product
+published: false
 
 ---
