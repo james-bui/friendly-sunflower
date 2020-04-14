@@ -19,8 +19,8 @@ images:
     original:
       optimized: ''
       fallback: "/images/lian hua qing wen original.jpg"
-category: ''
-featured: false
-section: ''
+category: herbs
+featured: true
+section: Store
 
 ---
